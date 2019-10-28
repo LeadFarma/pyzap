@@ -1,10 +1,10 @@
-##Zap automation GUI
+## Zap automation GUI
 
 O whatsapp web altera suas classes de tempos em tempos fazendo que toda a automatização baseada em classes quebre em algum momento, com isso a abordagem foi encontrar uma automatizacao de UI que imita o comportamento do usuário..
 
 ###### Fredd Bezerra
 
-#####TODO: 
+##### TODO: 
 
 [-] Criar endpoint que recebam por parametro numero de telefone e mensagem
 
